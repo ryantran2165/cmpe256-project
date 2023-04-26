@@ -1,7 +1,7 @@
 # CMPE 256 Project
 
 ## Team Name
-TBD
+RXD (Received Data)
 
 ## Team Members
 - Xinyu Li
