@@ -32,13 +32,19 @@ The code for parsing and loading the music genres datafile is included in this n
 
 ### loading_data
 
-This notebook contains all the code for creating the song and artist metadata datasets (except genres)
+This notebook contains all of the code required to generate the song and artist metadata datasets (except for genres).
 
 ### split_data
 
-This notebook contains the code for creating training and testing
+The code for creating the training and testing datasets for the Stacking Ensemble approach is included in this notebook.
 
-###
+### svd 
+
+This notebook contains the code for evaluating SVD with 5-fold cross validation and ratings ranging from 1 to 5. This is the baseline SVD for the Stacking Ensemble method.
+
+### train_triplets_filtered_ratings
+
+The scripts for converting the play_count into a rating scale are contained in this notebook. 
 
 ## Recreating Results
 
