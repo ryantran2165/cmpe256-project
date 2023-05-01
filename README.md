@@ -10,11 +10,11 @@ RXD (Received Data)
 
 ## Notebook Explainations
 
-### EDA
+### eda
 
 Some general exploratory code and graphs can be found in this notebook. Examples include investigating the distributions of continuous features, how many categorical features have unique values, and summary statistics. Additionally, there is code for cleaning and eliminating features that have a single value, duplicate features, or all missing values. The most popular artists, songs, and average play counts are presented, along with some additional exploration of using various queries. 
 
-### Ensemble_SVD_NeuCF
+### ensemble_svd_neucf
 
 The code used to generate the Matrix Factorization and Neural Collaborative Filtering Ensemble findings is included in this notebook. It includes feature pre-processing code as well as code for executing the Neural Architecture Search (NAS) and analyzing techniques for determining the best model using RMSE. 
 
