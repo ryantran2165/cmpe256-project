@@ -55,3 +55,10 @@ To recreate the results of the Matrix Factorization and Neural Collaborative Fil
 To recreate the results of the genre-based KNN methods, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/genre.ipynb
 
 To recreate the results of the Stacked Ensemble, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/svd.ipynb followed by https://github.com/ryantran2165/cmpe256-project/blob/main/stacking.ipynb
+
+## Links to data
+
+http://millionsongdataset.com/sites/default/files/challenge/train_triplets.txt.zip  
+http://millionsongdataset.com/sites/default/files/AdditionalFiles/unique_tracks.txt  
+http://millionsongdataset.com/sites/default/files/AdditionalFiles/msd_summary_file.h5  
+https://www.tagtraum.com/genres/msd_beatunes_map.cls.zip  
