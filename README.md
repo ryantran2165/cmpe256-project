@@ -48,4 +48,4 @@ The scripts for converting the play_count into a rating scale are contained in t
 
 ## Recreating Results
 
-To recreate the results of the Matrix Factorization and Neural Collaborative Filtering Ensemble, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/Ensemble_SVD_NeuCF.ipynb
+To recreate the results of the Matrix Factorization and Neural Collaborative Filtering Ensemble, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/ensemble_svd_neucf.ipynb
