@@ -40,7 +40,7 @@ The code for creating the training and testing datasets for the Stacking Ensembl
 
 ### svd 
 
-This notebook contains the code for evaluating SVD with 5-fold cross validation and ratings ranging from 1 to 5. This is the baseline SVD for the Stacking Ensemble method.
+This notebook contains the code for evaluating SVD with 5-fold cross validation and ratings ranging from 1 to 5 and saving it's predicted values for the Stacking Ensemble method.
 
 ### train_triplets_filtered_ratings
 
@@ -48,4 +48,10 @@ The scripts for converting the play_count into a rating scale are contained in t
 
 ## Recreating Results
 
+*note: you will need to have the correct datasets already downloaded and processed*
+
 To recreate the results of the Matrix Factorization and Neural Collaborative Filtering Ensemble, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/ensemble_svd_neucf.ipynb
+
+To recreate the results of the genre-based KNN methods, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/genre.ipynb
+
+To recreate the results of the Stacked Ensemble, run the notebook https://github.com/ryantran2165/cmpe256-project/blob/main/svd.ipynb followed by https://github.com/ryantran2165/cmpe256-project/blob/main/stacking.ipynb
